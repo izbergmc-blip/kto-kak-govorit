@@ -1,8 +1,8 @@
 {
   "project_status": "codex_handoff_starter",
-  "frontend_starter": "included",
+  "frontend_starter": "full-screen single-animal carousel with horizontal swipes",
   "animal_catalog": "10 entries; data/animals.json is the single source of truth",
-  "animal_images": "6 supplied transparent PNG images; 4 JPG draft crops remain",
+  "animal_images": "10 supplied transparent PNG images",
   "animal_sounds": "not supplied; real licensed recordings required",
   "narrator_voiceovers": "not supplied; 10 consistent Russian recordings required",
   "animations": "CSS tap feedback included in starter; individual custom/Lottie animations not supplied",
