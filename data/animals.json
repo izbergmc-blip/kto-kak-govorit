@@ -3,7 +3,7 @@
     "id": "cow",
     "name": "Корова",
     "soundText": "Му-у-у!",
-    "image": "/assets/animals/cow.jpg",
+    "image": "/assets/animals/cow.png",
     "animalAudio": "/assets/audio/animals/cow.mp3",
     "voiceAudio": "/assets/audio/voices/cow.mp3",
     "alt": "Мультяшная корова"
@@ -12,43 +12,43 @@
     "id": "cat",
     "name": "Кошка",
     "soundText": "Мяу-мяу!",
-    "image": "/assets/animals/cat.jpg",
+    "image": "/assets/animals/cat.png",
     "animalAudio": "/assets/audio/animals/cat.mp3",
     "voiceAudio": "/assets/audio/voices/cat.mp3",
-    "alt": "Мультяшная кошка"
+    "alt": "Мультяшный полосатый котёнок"
   },
   {
     "id": "dog",
     "name": "Собака",
     "soundText": "Гав-гав!",
-    "image": "/assets/animals/dog.jpg",
+    "image": "/assets/animals/dog.png",
     "animalAudio": "/assets/audio/animals/dog.mp3",
     "voiceAudio": "/assets/audio/voices/dog.mp3",
-    "alt": "Мультяшная собака"
+    "alt": "Мультяшный щенок"
   },
   {
     "id": "duck",
     "name": "Утка",
     "soundText": "Кря-кря!",
-    "image": "/assets/animals/duck.jpg",
+    "image": "/assets/animals/duck.png",
     "animalAudio": "/assets/audio/animals/duck.mp3",
     "voiceAudio": "/assets/audio/voices/duck.mp3",
-    "alt": "Мультяшная утка"
+    "alt": "Мультяшный утёнок"
   },
   {
     "id": "horse",
     "name": "Лошадь",
     "soundText": "И-го-го!",
-    "image": "/assets/animals/horse.jpg",
+    "image": "/assets/animals/horse.png",
     "animalAudio": "/assets/audio/animals/horse.mp3",
     "voiceAudio": "/assets/audio/voices/horse.mp3",
-    "alt": "Мультяшная лошадь"
+    "alt": "Мультяшный пони"
   },
   {
     "id": "sheep",
     "name": "Овечка",
     "soundText": "Бе-е-е!",
-    "image": "/assets/animals/sheep.jpg",
+    "image": "/assets/animals/sheep.png",
     "animalAudio": "/assets/audio/animals/sheep.mp3",
     "voiceAudio": "/assets/audio/voices/sheep.mp3",
     "alt": "Мультяшная овечка"
