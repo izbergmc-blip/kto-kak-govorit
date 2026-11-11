@@ -1,0 +1,12 @@
+{
+  "project_status": "codex_handoff_starter",
+  "frontend_starter": "included",
+  "animal_catalog": "10 entries; data/animals.json is the single source of truth",
+  "animal_images": "10 separate JPG draft crops, 1024x1024, white background; not transparent production assets",
+  "animal_sounds": "not supplied; real licensed recordings required",
+  "narrator_voiceovers": "not supplied; 10 consistent Russian recordings required",
+  "animations": "CSS tap feedback included in starter; individual custom/Lottie animations not supplied",
+  "telegram_bot": "not created; user must create/configure through BotFather",
+  "hosting": "not configured; public HTTPS deployment required",
+  "automated_checks": "test and build commands defined; dependencies not installed in preparation environment"
+}

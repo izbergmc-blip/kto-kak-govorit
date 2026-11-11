@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cow",
+    "name": "Корова",
+    "soundText": "Му-у-у!",
+    "image": "/assets/animals/cow.jpg",
+    "animalAudio": "/assets/audio/animals/cow.mp3",
+    "voiceAudio": "/assets/audio/voices/cow.mp3",
+    "alt": "Мультяшная корова"
+  },
+  {
+    "id": "cat",
+    "name": "Кошка",
+    "soundText": "Мяу-мяу!",
+    "image": "/assets/animals/cat.jpg",
+    "animalAudio": "/assets/audio/animals/cat.mp3",
+    "voiceAudio": "/assets/audio/voices/cat.mp3",
+    "alt": "Мультяшная кошка"
+  },
+  {
+    "id": "dog",
+    "name": "Собака",
+    "soundText": "Гав-гав!",
+    "image": "/assets/animals/dog.jpg",
+    "animalAudio": "/assets/audio/animals/dog.mp3",
+    "voiceAudio": "/assets/audio/voices/dog.mp3",
+    "alt": "Мультяшная собака"
+  },
+  {
+    "id": "duck",
+    "name": "Утка",
+    "soundText": "Кря-кря!",
+    "image": "/assets/animals/duck.jpg",
+    "animalAudio": "/assets/audio/animals/duck.mp3",
+    "voiceAudio": "/assets/audio/voices/duck.mp3",
+    "alt": "Мультяшная утка"
+  },
+  {
+    "id": "horse",
+    "name": "Лошадь",
+    "soundText": "И-го-го!",
+    "image": "/assets/animals/horse.jpg",
+    "animalAudio": "/assets/audio/animals/horse.mp3",
+    "voiceAudio": "/assets/audio/voices/horse.mp3",
+    "alt": "Мультяшная лошадь"
+  },
+  {
+    "id": "sheep",
+    "name": "Овечка",
+    "soundText": "Бе-е-е!",
+    "image": "/assets/animals/sheep.jpg",
+    "animalAudio": "/assets/audio/animals/sheep.mp3",
+    "voiceAudio": "/assets/audio/voices/sheep.mp3",
+    "alt": "Мультяшная овечка"
+  },
+  {
+    "id": "pig",
+    "name": "Свинка",
+    "soundText": "Хрю-хрю!",
+    "image": "/assets/animals/pig.jpg",
+    "animalAudio": "/assets/audio/animals/pig.mp3",
+    "voiceAudio": "/assets/audio/voices/pig.mp3",
+    "alt": "Мультяшная свинка"
+  },
+  {
+    "id": "rooster",
+    "name": "Петушок",
+    "soundText": "Ку-ка-ре-ку!",
+    "image": "/assets/animals/rooster.jpg",
+    "animalAudio": "/assets/audio/animals/rooster.mp3",
+    "voiceAudio": "/assets/audio/voices/rooster.mp3",
+    "alt": "Мультяшный петушок"
+  },
+  {
+    "id": "frog",
+    "name": "Лягушка",
+    "soundText": "Ква-ква!",
+    "image": "/assets/animals/frog.jpg",
+    "animalAudio": "/assets/audio/animals/frog.mp3",
+    "voiceAudio": "/assets/audio/voices/frog.mp3",
+    "alt": "Мультяшная лягушка"
+  },
+  {
+    "id": "lion",
+    "name": "Лев",
+    "soundText": "Р-р-р!",
+    "image": "/assets/animals/lion.jpg",
+    "animalAudio": "/assets/audio/animals/lion.mp3",
+    "voiceAudio": "/assets/audio/voices/lion.mp3",
+    "alt": "Мультяшный лев"
+  }
+]
